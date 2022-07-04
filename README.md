@@ -2,7 +2,6 @@
 - 👀 I’m interested in everything related to web development and cybersecurity!
 - 🌱 I’m currently learning web development using react!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
 
 
 My name is Val Robichaux and I am a computer engineering major from Baton Rouge, Louisiana. I am a mostly self taught programmer who loves learning new things like this for example!
